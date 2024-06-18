@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <h3>i play valorant bro</h3>
-      <img src=":u\testreact1\public\u.png" alt="" />
+      <p>imagine this is a image</p>
     </div>
   );
 }
