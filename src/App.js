@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <h3>i play valorant bro</h3>
-      <img src="D:\testreact1\public\1.png" alt="" />
+      <img src=":u\testreact1\public\u.png" alt="" />
     </div>
   );
 }
